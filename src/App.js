@@ -1,4 +1,5 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Switch, Route, Link, NavLink } from "react-router-dom"
 import About from "./components/about"
 import Home from "./components/home"
