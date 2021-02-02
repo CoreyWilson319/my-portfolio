@@ -6,7 +6,7 @@ function About () {
     return(
         <div>
             <Contact />
-            <h1 className="page_title">About</h1>
+            <h1 className="page_title" id="about">About</h1>
             <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus ut faucibus pulvinar elementum integer enim. Hendrerit dolor magna eget est lorem ipsum dolor sit. Nunc sed augue lacus viverra vitae congue eu. Congue quisque egestas diam in. Id faucibus nisl tincidunt eget nullam non nisi est sit. Cras semper auctor neque vitae tempus. Laoreet suspendisse interdum consectetur libero id. Non tellus orci ac auctor augue. At consectetur lorem donec massa sapien faucibus et molestie. Etiam non quam lacus suspendisse faucibus interdum. Scelerisque fermentum dui faucibus in ornare quam viverra. Diam donec adipiscing tristique risus nec feugiat in fermentum. Libero volutpat sed cras ornare arcu dui vivamus arcu. Semper risus in hendrerit gravida rutrum quisque non tellus orci. Id consectetur purus ut faucibus pulvinar elementum integer. Imperdiet sed euismod nisi porta lorem. Sit amet aliquam id diam maecenas.
 
