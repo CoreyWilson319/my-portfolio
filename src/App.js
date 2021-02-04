@@ -5,6 +5,7 @@ import {Navbar, Nav, NavItem, NavDropdown, Form, FormControl, Button} from 'reac
 import About from "./components/about"
 import Home from "./components/home"
 import Projects from "./components/projects"
+import Skills from "./components/skills"
 
 import background from "./resources/background.png"
 
@@ -30,6 +31,7 @@ function App() {
         <br></br>
         <br></br>
           <About />
+          <Skills />
           <Projects />
           <footer>
             Corey Wilson
