@@ -7,12 +7,7 @@ function About() {
         <div>
             <Contact />
             <h1 className="page_title" id="about">About Me</h1>
-            <p id="about_content">My name is Corey Wilson, I am a recent graduate of General Assembly. I'm the eldest of three children raised by a single mother off and on,
-            being raised under these circumstances have molded me to be extremely protective. So much so that it may be seen as unsightly. If others were to describe me, you
-             would probably hear the phrase a "gentle giant". Regarding the tech field, tech has always been something that I've found myself involved with in some capacity
-            from video games as a child, to my first cell phone even to where I am now. I've been practicing reading and writing code for almost a year, and joined a code bootcamp
-             to further my goals as well as to get the guidance I lacked self teaching. And after 480 hours of guided education and sleepless nights meeting deadlines. I believe that
-             I am ready to share my skills with the world.</p>
+            <p id="about_content">My name is Corey Wilson. I was born and brought up in Michigan, am the eldest of three children, and was raised, nurtured, and strengthened by a single mother. Growing up in a single parent household developed my compassion, maturity, mental sharpness, and inventiveness. If given the chance to describe me, others would most likely refer to me as a "gentle giant", considering my 6’1 stature and my benevolent nature. Aside from being a gentle giant, I am also a recent graduate of General Assembly: Coding Bootcamp. Technology and science have always been impassioned interests of mine. My fervor for technology and science started at a young age with video games and desiring to know just how they worked. I eventually began self-teaching code languages and dismantling motherboards and other technological devices and equipment to see the inner workings of it all. I joined General Assembly to receive expert training in coding, web development, data, and design. After 480 hours of guided education and sleepless nights meeting deadlines, I believe that I am ready to share my skills with the world.</p>
         </div>
     )
 }
