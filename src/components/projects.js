@@ -13,7 +13,8 @@ function Projects () {
                 <li><a href="https://pokemongofindthem.herokuapp.com/" target="_blank">Pokemon Go Find Them</a></li>
                 <li><a href="https://gametrackersei.herokuapp.com/" target="_blank">Game Tracker</a></li>
                 <li><a href="https://coreywilson319.github.io/" target="_blank">Blasterboy</a></li>
-                <li>Images of projects and explain the project</li>
+                {/* <li>Images of projects and explain the project</li> */}
+                {/* Maybe use a carousell or someway to show things */}
             </ul>
         </div>
     )
