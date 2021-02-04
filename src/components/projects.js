@@ -5,15 +5,16 @@ function Projects () {
     return(
         <div>
             <h1 className="page_title" id="projects">Projects</h1>
-            <p>Cleo's Site (Need to finish)</p>
-            <p>Mental Health App (Need to start)</p>
-            <p>My own twist on the budgeting app we made</p>
-            <p>All GA projects</p>
-            <p><a href="https://set-aside.herokuapp.com/" target="_blank">Set Aside</a></p>
-            <p><a href="https://pokemongofindthem.herokuapp.com/" target="_blank">Pokemon Go Find Them</a></p>
-            <p><a href="https://gametrackersei.herokuapp.com/" target="_blank">Game Tracker</a></p>
-            <p><a href="https://coreywilson319.github.io/" target="_blank">Blasterboy</a></p>
-            <p>Images of projects and explain the project</p>
+            <ul id="projects_list">
+                <li>Rasta Imagery (WIP)</li>
+                <li>Mental Health App (Need to start)</li>
+                <li>All GA projects</li>
+                <li><a href="https://set-aside.herokuapp.com/" target="_blank">Set Aside</a></li>
+                <li><a href="https://pokemongofindthem.herokuapp.com/" target="_blank">Pokemon Go Find Them</a></li>
+                <li><a href="https://gametrackersei.herokuapp.com/" target="_blank">Game Tracker</a></li>
+                <li><a href="https://coreywilson319.github.io/" target="_blank">Blasterboy</a></li>
+                <li>Images of projects and explain the project</li>
+            </ul>
         </div>
     )
 }
