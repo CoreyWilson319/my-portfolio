@@ -3,8 +3,8 @@ import { BrowserRouter, Switch, Route, Link } from "react-router-dom"
 
 function Projects () {
     return(
-        <div>
-            <h1 className="page_title" id="projects">Projects</h1>
+        <div id="projects">
+            <h1 className="page_title">Projects</h1>
             <p>All GA projects</p>
             <p><a href="https://set-aside.herokuapp.com/" target="_blank">Set Aside</a></p>
             <p><a href="https://pokemongofindthem.herokuapp.com/" target="_blank">Pokemon Go Find Them</a></p>
