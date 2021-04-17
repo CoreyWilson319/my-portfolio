@@ -41,3 +41,9 @@ function App() {
 }
 
 export default App;
+
+
+// increment y for the desired unit
+// example on keypress y += 10
+// make a conditional for this to happen as long as the y coordinates are less than or equal to the canvas
+// so if y is at 690 and the next keypress makes it 700, if 700 is the maximum height of our canvas stop allowing increments past that
